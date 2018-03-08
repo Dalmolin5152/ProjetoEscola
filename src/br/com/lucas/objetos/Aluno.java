@@ -20,8 +20,8 @@ public class Aluno {
     public Aluno(Integer matricula, Date dataMatricula, ArrayList disciplinas) {
         this.matricula = matricula;
         this.dataMatricula = dataMatricula;
-        this.disciplinas = disciplinas;
-    }
+        
+   }
 
     @Override
     public String toString() {

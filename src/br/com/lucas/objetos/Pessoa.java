@@ -24,8 +24,7 @@ import java.util.Date;
         this.rg = rg;
         this.cpf = cpf;
         this.dataNascimento = dataNascimento;
-        this.idade = idade;
-    
+        
     }
 
     @Override

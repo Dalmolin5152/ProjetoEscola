@@ -17,8 +17,7 @@ public class Professor {
    private float valorHora;
    private Integer idade;
 
-    public Professor(ArrayList disciplinas, Integer cargaHoraria, float valorHora, Integer idade) {
-        this.disciplinas = disciplinas;
+    public Professor( Integer cargaHoraria, float valorHora, Integer idade) {
         this.cargaHoraria = cargaHoraria;
         this.valorHora = valorHora;
         this.idade = idade;
